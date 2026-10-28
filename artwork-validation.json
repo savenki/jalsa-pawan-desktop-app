@@ -1,0 +1,100 @@
+{
+  "water": {
+    "frames": 6,
+    "row_scale": 0.84,
+    "chroma": {
+      "algorithm": "edge-local-chroma-spill-suppression",
+      "strength": 1,
+      "edge_radius": 5,
+      "spill_tolerance": 0.15,
+      "minimum_saturation": 0.1,
+      "changed_pixels": 13337,
+      "decontaminated_pixels": 12211,
+      "spill_suppressed_pixels": 13337,
+      "rejected_pixels": 0,
+      "changed_by_cell": {
+        "r0c0": 2521,
+        "r0c5": 2238,
+        "r0c4": 2200,
+        "r0c1": 2145,
+        "r0c2": 2125,
+        "r0c3": 2108
+      },
+      "alpha_preserved": true
+    }
+  },
+  "bamboo": {
+    "frames": 8,
+    "row_scale": 0.92,
+    "chroma": {
+      "algorithm": "edge-local-chroma-spill-suppression",
+      "strength": 1,
+      "edge_radius": 5,
+      "spill_tolerance": 0.15,
+      "minimum_saturation": 0.1,
+      "changed_pixels": 20673,
+      "decontaminated_pixels": 19376,
+      "spill_suppressed_pixels": 20673,
+      "rejected_pixels": 0,
+      "changed_by_cell": {
+        "r0c0": 2833,
+        "r0c7": 2652,
+        "r0c5": 2621,
+        "r0c1": 2612,
+        "r0c2": 2603,
+        "r0c6": 2597,
+        "r0c4": 2506,
+        "r0c3": 2249
+      },
+      "alpha_preserved": true
+    }
+  },
+  "sleep": {
+    "frames": 6,
+    "row_scale": 0.58,
+    "chroma": {
+      "algorithm": "edge-local-chroma-spill-suppression",
+      "strength": 1,
+      "edge_radius": 5,
+      "spill_tolerance": 0.15,
+      "minimum_saturation": 0.1,
+      "changed_pixels": 6535,
+      "decontaminated_pixels": 6192,
+      "spill_suppressed_pixels": 6535,
+      "rejected_pixels": 0,
+      "changed_by_cell": {
+        "r0c0": 1150,
+        "r0c5": 1138,
+        "r0c4": 1108,
+        "r0c1": 1104,
+        "r0c2": 1044,
+        "r0c3": 991
+      },
+      "alpha_preserved": true
+    }
+  },
+  "finisher": {
+    "frames": 6,
+    "row_scale": 0.95,
+    "chroma": {
+      "algorithm": "edge-local-chroma-spill-suppression",
+      "strength": 1,
+      "edge_radius": 5,
+      "spill_tolerance": 0.15,
+      "minimum_saturation": 0.1,
+      "changed_pixels": 11825,
+      "decontaminated_pixels": 11153,
+      "spill_suppressed_pixels": 11825,
+      "rejected_pixels": 0,
+      "changed_by_cell": {
+        "r0c5": 2142,
+        "r0c0": 2045,
+        "r0c2": 2018,
+        "r0c1": 1927,
+        "r0c4": 1908,
+        "r0c3": 1785
+      },
+      "alpha_preserved": true
+    }
+  }
+}

@@ -1,0 +1,33 @@
+JALSA PAWAN - PORTABLE WINDOWS COMPANION
+
+1. Extract the entire ZIP into a folder on a Windows 10 or Windows 11 PC.
+2. Double-click JalsaPawan.exe.
+3. Click the pet to open the control panel.
+4. Use Stop pet to close him and stop all reminders.
+
+Optional: Run Install-StartMenu.ps1 to add Start/Stop and Control Panel
+shortcuts for that computer. Keep the extracted folder in place afterward.
+The shortcuts can also be created manually by right-clicking JalsaPawan.exe.
+
+DEFAULTS
+  Focus: reads under a tree above Start, 25-minute focus / 5-minute break
+  Move cursor near him to aim katana; quick swipe to slash
+  No bamboo in Focus mode; use Focus timer > Leave Focus mode to roam
+  Blink reminder: every 10 minutes
+  Water reminder: every 30 minutes, with glass animation
+  Bamboo: runs between 3 stalks and slices them
+  Hourly: 2-minute nap, screen-height bamboo growth, hover to wake,
+          jump and one sword strike
+
+All timings and animation options are adjustable in the control panel.
+Voice reminders use the Windows voices available on each computer.
+This app does not include Pawan Kalyan's voice.
+
+This is a Windows application, not a macOS/Linux executable.
+It uses the .NET Framework 4.x included with Windows 10/11.
+No Python, API key, network connection or developer SDK is needed.
+If Windows reports a missing .NET Framework component, install/enable
+the current supported .NET Framework for that PC before launching it.
+
+Settings are stored beside the EXE in settings.xml. Extract to a writable
+folder such as Documents. It does not auto-start at login.

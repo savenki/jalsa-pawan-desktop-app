@@ -1,0 +1,7 @@
+/JalsaPawan.exe
+/settings.xml
+/settings.xml.tmp
+/runtime-status.json
+/diagnostics.log
+*.pdb
+*.settings-test.xml
